@@ -647,15 +647,16 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 
 /* ===== Begin team ===== */
 .team-item {
-	height: 120px;
+	height: 150px;
+	width: 150px;
 }	
 .team-item .team-triangle {
 	width: 120px;
 	height: 120px;
 	background: transparent;
-	-ms-transform: rotate(45deg);
-	-webkit-transform: rotate(45deg);
-	transform: rotate(45deg);
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
 	margin: 0 auto;
 	position: relative;
 	top: 25px;
@@ -671,9 +672,9 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	margin-top: 0;
 }
 .team-triangle .content {
-	-ms-transform: rotate(-45deg);
-	-webkit-transform: rotate(-45deg);
-	transform: rotate(-45deg);
+	-ms-transform: rotate(0deg);
+	-webkit-transform: rotate(0deg);
+	transform: rotate(0deg);
 	top: -35px;
 	position: absolute;
 	left: -37px;
@@ -706,13 +707,9 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
     font-weight: 400;
     margin-top: 0;
 }
-.team-items .col-md-2:nth-child(7n+5) {
+.team-items .col-md-2:nth-child(20n) {
 	clear: left;
-	margin-left: 24.9999999%;
-}
-.team-items .col-md-2:nth-child(7n+1) {
-	clear: left;
-	margin-left: 16.6666666%;
+	margin-left: 5%;
 }
 /* ===== End team ===== */
 
