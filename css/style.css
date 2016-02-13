@@ -1,15 +1,3 @@
-/*---------------------------------------------------------------------------------
-
-Master Stylesheet
-
-	Template:	 Unika - Responsive One Page HTML5 Template
-	Author:		 imransdesign.com
-	URL:		 http://imransdesign.com/
-    Designed By: https://www.behance.net/poljakova
-	Version:	1.0
-
----------------------------------------------------------------------------------*/
-
 html {
 	height: 100% !important;
 }
@@ -102,11 +90,11 @@ section {
 	margin-bottom: 20px;
 	background-color: #FFF;
 	border: 1px solid #DDD;
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 .form-control {
 	-webkit-box-shadow: none;
@@ -137,11 +125,11 @@ section {
 .navbar {
 	margin: 0;
 	border: none;
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 .navbar .container {
 	padding-left: 50px;
@@ -161,11 +149,11 @@ section {
 	font-weight: 600;
 	line-height: 20px;
 	letter-spacing: 4px;
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 .navbar-default .navbar-brand {
 	background-image: url(../img/logo.png);
@@ -220,11 +208,11 @@ section {
 
 /* Navbar fixed */
 .navbar-fixed-top .container {
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 
 .navbar-shrink {
@@ -301,11 +289,11 @@ section {
 .rotate-box-1, .rotate-box-2 {
 	display: inline-block;
 	margin: 30px 0;
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 a.rotate-box-1, a.rotate-box-2 {
 	text-decoration: none;
@@ -321,11 +309,11 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	margin-right: 25px;
 	margin-top: 10px;
 	float:left;
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 .rotate-box-1.square-icon .rotate-box-icon, .rotate-box-2.square-icon .rotate-box-icon {
 	width: 45px;
@@ -354,11 +342,11 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	transform: rotate(0deg);
 }
 .rotate-box-1.square-icon .rotate-box-icon .fa, .rotate-box-2.square-icon .rotate-box-icon .fa{
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 	-webkit-transform: rotate(-45deg);
 	-moz-transform: rotate(-45deg);
 	-o-transform: rotate(-45deg);
@@ -372,11 +360,11 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 
 .rotate-box-1 .rotate-box-info a, .rotate-box-2 .rotate-box-info a {
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 .rotate-box-1 h4, .rotate-box-2 h4 {
 	font-weight: 400;
@@ -396,11 +384,11 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	display: inline-block;
 	text-align: center;
 	margin-bottom: 15px;
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
 }
 
 .rotate-box-2.square-icon .rotate-box-icon {
@@ -555,11 +543,11 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	left: 0;
 	z-index: 6;
 	cursor:pointer;
-	-moz-transition:all 0s;
-	-webkit-transition:all 0s;
-	-o-transition:all 0s;
-	-ms-transition:all 0s;
-	transition:all 0s;
+	-moz-transition:all 1s;
+	-webkit-transition:all 1s;
+	-o-transition:all 1s;
+	-ms-transition:all 1s;
+	transition:all 1s;
 }
 .portfolio_single_content .canv{
 	width:100% !important;
@@ -589,7 +577,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	height:100%;
 	text-align:center;
 	transform:scale(0);
-	transition:all 0.0s;
+	transition:all .6s;
 	opacity:0;
 }
 .portfolio_single_content:hover div{
@@ -647,20 +635,19 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 
 /* ===== Begin team ===== */
 .team-item {
-	height: 200px;
-	width: 200px;
+	height: 195px;
 }
 .team-item .team-triangle {
-	width: 150px;
-	height: 150px;
+	width: 175px;
+	height: 175px;
 	background: transparent;
 	-ms-transform: rotate(0deg);
 	-webkit-transform: rotate(0deg);
 	transform: rotate(0deg);
-	margin: 0 auto;
+	margin: 0;
 	position: relative;
-	top: 25px;
-	box-shadow: 0 0 0 6px #FFFFFF, 0 0 0 7px #dadbdb;
+	top: 0px;
+	box-shadow: 0 0 0 6px #333333, 0 0 0 8px #dadbdb;
 	overflow: hidden;
 }
 .team-item img {
@@ -668,18 +655,18 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 .team-items {
 	margin-bottom: 50px;
-	padding-top: 10px;
+	padding-top: 0px;
 	margin-top: 0;
 }
 .team-triangle .content {
 	-ms-transform: rotate(0deg);
 	-webkit-transform: rotate(0deg);
 	transform: rotate(0deg);
-	top: -35px;
-	position: absolute;
-	left: -30px;
-	width: 200px;
-	height: 200px;
+	top: 0px;
+	position: relative;
+	left: 0px;
+	width: 175px;
+	height: 175px;
 }
 .team-hover {
 	position: absolute;
@@ -689,8 +676,8 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	height: 100%;
 	background: rgba( 103, 109, 117, 0.9);
 	opacity: 0;
-	-webkit-transition: opacity 0.0s ease-in; /* For Safari 3.1 to 6.0 */
-    transition: opacity 0.0s ease-in;
+	-webkit-transition: opacity 0.1s ease-in; /* For Safari 3.1 to 6.0 */
+    transition: opacity 0.1s ease-in;
 }
 .team-item .team-triangle:hover .team-hover {
 	opacity: 1;
@@ -698,8 +685,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 .team-hover i {
     color: rgba(255, 255, 255,.75);
     font-size: 28px;
-    margin-top: 75px;
-	margin-left: 0px;
+    margin-top: 57px;
     position: relative;
 }
 .team-hover p {
@@ -710,8 +696,9 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 .team-items .col-md-2:nth-child(20n) {
 	clear: left;
-	margin-left: 5%;
+	margin-left: 0%;
 }
+
 /* ===== End team ===== */
 
 
@@ -922,7 +909,7 @@ ul.imp-links li a {
     font-weight: 300;
     padding: 7px 20px;
     height: 30px;
-    transition: all 0.0s ease-in;
+    transition: all 0.4s ease-in;
 }
 
 /*Widget3: twitter*/
@@ -1043,11 +1030,11 @@ p.subtitle {
 
 /* Button default */
 .btn-default, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	-webkit-transition: all 0.0s ease-in-out;
-	-moz-transition: all 0.0s ease-in-out;
-	-o-transition: all 0.0s ease-in-out;
-	-ms-transition: all 0.0s ease-in-out;
-	transition: all 0.0s ease-in-out;
+	-webkit-transition: all 0.6s ease-in-out;
+	-moz-transition: all 0.6s ease-in-out;
+	-o-transition: all 0.6s ease-in-out;
+	-ms-transition: all 0.6s ease-in-out;
+	transition: all 0.6s ease-in-out;
 }
 
 /* Button blank */
@@ -1066,8 +1053,8 @@ p.subtitle {
 	position: relative;
 	-webkit-transition-property: color;
 	transition-property: color;
-	-webkit-transition-duration: 0.0s;
-	transition-duration: 0.0s;
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
 }
 .btn-blank:before {
 	content: "";
@@ -1084,7 +1071,7 @@ p.subtitle {
 	transform-origin: 50% 100%;
 	-webkit-transition-property: transform;
 	transition-property: transform;
-	-webkit-transition-duration: 0.0s;
+	-webkit-transition-duration: 0.3s;
 	transition-duration: 0.3s;
 	-webkit-transition-timing-function: ease-out;
 	transition-timing-function: ease-out;
