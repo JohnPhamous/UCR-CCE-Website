@@ -788,14 +788,14 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 }
 ul.social-list {
 	text-align: center;
-	margin: 0 auto;
+	margin: 100 auto;
 }
 ul.social-list li{
 	display: inline-block;
 	margin-right: 20px;
 }
 ul.social-list li .rotate-box-1 {
-	margin: 0;
+	margin: 1000;
 }
 ul.social-list li a i {
 	color: #fff;
