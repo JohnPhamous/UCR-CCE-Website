@@ -84,20 +84,20 @@ $(window).load(function() {
 $("#owl-intro-text").owlCarousel({
     singleItem : true,
     autoPlay : 6000,
-    stopOnHover : true,
+    stopOnHover : false,
     navigation : false,
     navigationText : false,
-    pagination : true
+    pagination : false
 })
 
 
 // Partner carousel
 $("#owl-partners").owlCarousel({
-    items : 4,
+    items : 5,
     itemsDesktop : [1199,3],
     itemsDesktopSmall : [980,2],
     itemsTablet: [768,2],
-    autoPlay : 5000,
+    autoPlay : 1000,
     stopOnHover : true,
     pagination : false
 })
